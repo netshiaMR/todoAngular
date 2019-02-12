@@ -1,2 +1,0 @@
-# todoAngular
-Created with CodeSandbox
